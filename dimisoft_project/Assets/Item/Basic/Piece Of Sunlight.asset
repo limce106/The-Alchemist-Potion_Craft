@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4146f9fe2554cb845b9f585b769cfba4, type: 3}
+  m_Name: Piece Of Sunlight
+  m_EditorClassIdentifier: 
+  itemName: "\uD587\uBE5B \uC870\uAC01"
+  itemDesc: "\uD574 \uB728\uB294 \uC0C8\uBCBD\uC5D0\n\uC5BB\uC744 \uC218 \uC788\uB294
+    \uD587\uBE5B \uC870\uAC01"
+  itemType: 0
+  itemImage: {fileID: 21300000, guid: 785567abe1195a7419aea42b48150e70, type: 3}
+  itemPrefab: {fileID: 3681020972652019638, guid: 95356706ca3f12b4696cced9a97d04f3, type: 3}
+  itemCode: 1

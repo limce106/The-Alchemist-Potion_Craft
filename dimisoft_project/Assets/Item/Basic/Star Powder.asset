@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4146f9fe2554cb845b9f585b769cfba4, type: 3}
+  m_Name: Star Powder
+  m_EditorClassIdentifier: 
+  itemName: "\uBCC4 \uAC00\uB8E8"
+  itemDesc: "\uBCC4\uB625\uBCC4\uC774 \uB5A8\uC5B4\uC84C\uC744 \uB54C \n\uAD6C\uD560
+    \uC218 \uC788\uB294 \uBCC4 \uAC00\uB8E8"
+  itemType: 0
+  itemImage: {fileID: 21300000, guid: 092544c577a40104aa7a8e63b89c6427, type: 3}
+  itemPrefab: {fileID: 2872492461545042532, guid: d95946c8cd6774341adc07fb706c6bd9, type: 3}
+  itemCode: 3
